@@ -1,4 +1,19 @@
 theme: jekyll-theme-minimal
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [Portfolio_Rodrigo]
+description: [My data science portfolio]
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  Contatos:
+    - Email: "maltaufrj@gmail.com"
+    - Github: "https://github.com/rodrigom-esteves"
+    - Twitter: "https://twitter.com/rodrigoma1ta"
+    - Kaggle: https://www.kaggle.com/rmesteves
+
+# --- Logo --- #
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/assets/img/avatar-icon.png"
