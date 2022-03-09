@@ -1,7 +1,12 @@
 theme: jekyll-theme-minimal
 
 title: [Portfolio_Rodrigo]
-description: [My data science portfolio]
+description: [Portfólio de data science
+ Contatos:
+    - Email: "maltaufrj@gmail.com"
+    - Github: "https://github.com/rodrigom-esteves"
+    - Twitter: "https://twitter.com/rodrigoma1ta"
+    - Kaggle: https://www.kaggle.com/rmesteves]
 
 # --- List of links in the navigation bar --- #
 
