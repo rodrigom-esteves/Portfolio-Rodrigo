@@ -10,7 +10,7 @@
 
 ## [Trabalhos de pós-graduação](https://github.com/rodrigom-esteves/trabalhos_pos_ciencia_de_dados)
 
-![](/images/logo-im%20(1).png)
+![](/images/imufrjlogo.png)
 
 Coleção de trabalho desenvolvidos durante o período da pós-graduação em ciência de dados pela UFRJ. São abordados diversos tópicos envolvendo ciência de dados, programação e banco de dados. Nem tudo está em formato de entrega, sendo alguns rascunhos da versão final. O objetivo aqui é apresentar toda variedade de assuntos abordados durante o período em que realizei a pós. As matérias em destaque são: 
 * Introdução ao Python
