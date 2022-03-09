@@ -8,10 +8,22 @@
 
 ![](/images/img1.png)
 
-### Jekyll Themes
+## [Trabalhos de pós-graduação](https://github.com/rodrigom-esteves/trabalhos_pos_ciencia_de_dados)
+Coleção de trabalho desenvolvidos durante o período da pós-graduação. São abordados diversos tópicos envolvendo ciência de dados, programação e banco de dados.
+* Introdução ao Python
+* Ïntrodução à modelagem de incertezas
+* Mineração de dados
+* Introdução ao aprendizado estatístico
+* Aprendizado supervisionado I
+* Aprendizado supervisionado II
+* Aprendizado não-supervisionado
+* Banco de dados
+* Redes neurais e Deep Learning
+* Métodos de otimização
+* Previsões bayesianas e modelos gráficos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rodrigom-esteves/Portfolio_Rodrigo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Informações de contato
+* maltaufrj@gmail.com
+* https://github.com/rodrigom-esteves
+* https://twitter.com/rodrigoma1ta
+* https://www.kaggle.com/rmesteves
