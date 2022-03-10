@@ -2,7 +2,7 @@
 Em breve...
 
 ## [2) Twitter Sentiment Analysis](https://github.com/rodrigom-esteves/Projetos/blob/main/Twitter%20Sentiment%20Analysis/Twitter%20Sentiment%20Analysis.ipynb)
-Uma análise de sentimentos simples. Aqui é mostrado como importars os tweets de interesse, realizar uma limpeza preliminar e os primeiros passos para visualização. Mais para frente serão postadas análises mais complexas envolvendo temas mais específicos
+Uma análise de sentimentos simples. Aqui é mostrado como importar os tweets de interesse, realizar uma limpeza preliminar e os primeiros passos para visualização. Mais para frente serão postadas análises mais complexas envolvendo temas mais específicos.
 
 ![](/images/wordcloud.png)
 
