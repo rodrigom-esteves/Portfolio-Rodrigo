@@ -1,11 +1,12 @@
 ## [3) Handwritten Equation Solver using Convolutional Neural Network]
 Em breve...
 
-## [2) Twitter Sentiment Analysis](https://github.com/rodrigom-esteves/Projetos/blob/main/Twitter%20Sentiment%20Analysis/Twitter%20Sentiment%20Analysis.ipynb)
+## [2) Twitter Sentiment Analysis](https://github.com/rodrigom-esteves/Projetos/blob/main/Twitter%20Sentiment%20Analysis.ipynb)
 Análise de sentimento com TextBlob utilizando tweets.
 * Mineração de opinições ou IA de emoções.
 * Categorizar opiniões e atitudes expressas em um texto(positiva, negativa ou neutra).
 * Determinar a atitude do palestrante ou autor com respeito a algum tópico (polaridade,subjetividade).
+* Regressão logística simples
 
 ![](/images/wordcloud.png)
 
