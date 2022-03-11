@@ -4,7 +4,7 @@ Repositório contendo o portfólio de projetos de ciência de dados elaborados p
 
 Para navegar de forma mais agradável pelo portfólio, é possível acessar https://rodrigom-esteves.github.io/Portfolio-Rodrigo/ (ainda em construção).
 
-O portfólio dos trabalhos em R pode ser acessado ![aqui](https://rpubs.com/RodrigoMEsteves).
+O portfólio dos trabalhos em R pode ser acessado em https://rpubs.com/RodrigoMEsteves.
 
 ## Conteúdo
 
