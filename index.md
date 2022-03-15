@@ -1,8 +1,8 @@
 ## [4) Handwritten Equation Solver using Convolutional Neural Network]
 Em breve...
 
-## [3) Prevendo valores de transações imobiliárias no Rio de Janeiro](https://github.com/rodrigom-esteves/Projetos/blob/main/An%C3%A1lise%20imobili%C3%A1ria%20Rio%20de%20Janeiro.ipynb)
-Criação de um modelo preditivo de árvore de decisão para os preços de transações imobiliárias no Rio de Janeiro
+## [3) Prevendo valores de transações imobiliárias](https://github.com/rodrigom-esteves/Projetos/blob/main/An%C3%A1lise%20imobili%C3%A1ria%20Rio%20de%20Janeiro.ipynb)
+Criação de um modelo preditivo de árvore de decisão para os preços de transações imobiliárias no Rio de Janeiro de 2010 até 03/2022.
 * Análise exploratória de dados.
 * One-hot encoding.
 * GridSearch e Cross Validation
