@@ -1,5 +1,10 @@
-## [4) Handwritten Equation Solver using Convolutional Neural Network]
-Em breve...
+## [4) Classificando animais utilizando Xception e Transfer Learning](https://github.com/rodrigom-esteves/Projetos/blob/main/Classifica%C3%A7%C3%A3o%20de%20animais%20usando%20Xception.ipynb)
+Classificação de imagens de capivaras e equinos utilizando redes pré-treinadas.
+* Transfer Learning
+* Exception
+* Redes Neurais
+
+![](/images/image0000.jpeg)
 
 ## [3) Prevendo valores de transações imobiliárias](https://github.com/rodrigom-esteves/Projetos/blob/main/An%C3%A1lise%20imobili%C3%A1ria%20Rio%20de%20Janeiro.ipynb)
 Criação de um modelo preditivo de árvore de decisão para os preços de transações imobiliárias no Rio de Janeiro de 2010 até 03/2022.
