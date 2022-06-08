@@ -1,3 +1,12 @@
+## [5) Detecção de animais com yolov4](https://github.com/rodrigom-esteves/Projetos/blob/main/Yolov4_Meus_dados.ipynb)
+Detecção de capivaras, cachorros e equinos utilizando yolov4.
+* Transfer Learning
+* Detecção em imagens
+* Detecção em vídeo
+* yolov4
+
+![](/images/cappp.png)
+
 ## [4) Classificando animais utilizando Xception e Transfer Learning](https://github.com/rodrigom-esteves/Projetos/blob/main/Classifica%C3%A7%C3%A3o%20de%20animais%20usando%20Xception.ipynb)
 Classificação de imagens de capivaras e equinos utilizando redes pré-treinadas com o Xception.
 * Transfer Learning
