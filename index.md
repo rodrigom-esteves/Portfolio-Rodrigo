@@ -5,7 +5,7 @@ Detecção de capivaras, cachorros e equinos utilizando yolov4. [Video](https://
 * Detecção em vídeo
 * yolov4
 
-![](/images/cappp.png)
+![](/images/dogcapybara.png)
 
 ## [4) Classificando animais utilizando Xception e Transfer Learning](https://github.com/rodrigom-esteves/Projetos/blob/main/Classifica%C3%A7%C3%A3o%20de%20animais%20usando%20Xception.ipynb)
 Classificação de imagens de capivaras e equinos utilizando redes pré-treinadas com o Xception.
