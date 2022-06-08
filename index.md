@@ -1,5 +1,5 @@
 ## [5) Detecção de animais com yolov4](https://github.com/rodrigom-esteves/Projetos/blob/main/Yolov4_Meus_dados.ipynb)
-Detecção de capivaras, cachorros e equinos utilizando yolov4.
+Detecção de capivaras, cachorros e equinos utilizando yolov4. [Video](https://youtu.be/To19RpiEq44) com o modelo sendo executado 
 * Transfer Learning
 * Detecção em imagens
 * Detecção em vídeo
